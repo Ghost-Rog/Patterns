@@ -5,7 +5,7 @@ public class Flyweight {
     private final String repeatingState;
 
     public void operation(int uniqueState){
-        System.out.println("Repeating State = " + repeatingState + "\nUnique State = " + uniqueState );
+        System.out.println("Repeating State = " + repeatingState + "\nUnique State = " + uniqueState);
     }
 
     public Flyweight(String repeatingState) {

@@ -12,7 +12,7 @@ public class Context {
         this.flyweightFactory = flyweightFactory;
     }
 
-    void operation(){
+    void operation() {
         flyweight.operation(uniqueState);
     }
 }
