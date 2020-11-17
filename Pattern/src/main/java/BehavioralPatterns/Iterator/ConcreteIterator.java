@@ -1,4 +1,4 @@
 package BehavioralPatterns.Iterator;
 
-public class ConcreteInterator {
+public class ConcreteIterator {
 }
